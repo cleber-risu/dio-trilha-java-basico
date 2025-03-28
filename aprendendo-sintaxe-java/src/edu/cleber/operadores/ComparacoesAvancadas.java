@@ -15,6 +15,7 @@ public class ComparacoesAvancadas {
 
     System.out.println(nome3 == nome4); // true
 
+    System.out.println("Equals:");
     // equals na parada
     System.out.println(nome1.equals(nome2)); // ??
     System.out.println(nome2.equals(nome3)); // ??
